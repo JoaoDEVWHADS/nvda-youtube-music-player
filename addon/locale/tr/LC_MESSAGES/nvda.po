@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtubeMusicPlayer 1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 00:00+0000\n"
+"PO-Revision-Date: 2026-01-17 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "YouTube Music Player"
+msgstr "YouTube Müzik Çalar"
+
+msgid "Pesquisar"
+msgstr "Ara"
+
+msgid "Digite algo para buscar"
+msgstr "Aramak için bir şeyler yazın"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Music"
+msgstr "YouTube Music"
+
+msgid "Buscando..."
+msgstr "Aranıyor..."
+
+msgid "Nenhum resultado encontrado"
+msgstr "Sonuç bulunamadı"
+
+msgid "Erro ao buscar: {}"
+msgstr "Arama hatası: {}"
+
+msgid "Sem título"
+msgstr "Başlıksız"
+
+msgid "Tocando: {}"
+msgstr "Çalınıyor: {}"
+
+msgid "Player ({})"
+msgstr "Oynatıcı ({})"
+
+msgid "Parado"
+msgstr "Durduruldu"
+
+msgid "Player"
+msgstr "Oynatıcı"
+
+msgid "Player - {}"
+msgstr "Oynatıcı - {}"
+
+msgid "Carregando..."
+msgstr "Yükleniyor..."
+
+msgid "&Anterior"
+msgstr "&Önceki"
+
+msgid "&Pausar"
+msgstr "&Duraklat"
+
+msgid "&Próxima"
+msgstr "&Sonraki"
+
+msgid "&Resultados"
+msgstr "&Sonuçlar"
+
+msgid "&Desabilitar Auto-Play"
+msgstr "Otomatik Oynatmayı &Devre Dışı Bırak"
+
+msgid "&Habilitar Auto-Play"
+msgstr "Otomatik Oynatmayı &Etkinleştir"
+
+msgid "&Repetir: Ligado"
+msgstr "&Tekrarla: Açık"
+
+msgid "&Repetir: Desligado"
+msgstr "&Tekrarla: Kapalı"
+
+msgid "Repetir Faixa: Ligado"
+msgstr "Parçayı Tekrarla: Açık"
+
+msgid "Repetir Faixa: Desligado"
+msgstr "Parçayı Tekrarla: Kapalı"
+
+msgid "Erro ao carregar áudio"
+msgstr "Ses yükleme hatası"
+
+msgid "Tocando próxima..."
+msgstr "Sonraki çalınıyor..."
+
+msgid "Fim da lista"
+msgstr "Listenin sonu"
+
+msgid "Reproduzindo"
+msgstr "Oynatılıyor"
+
+msgid "Pausado"
+msgstr "Duraklatıldı"
+
+msgid "Volume: {}% | Velocidade: {}x | Tom: {}"
+msgstr "Ses: {}% | Hız: {}x | Ton: {}"
+
+msgid "Volume: {}%"
+msgstr "Ses: {}%"
+
+msgid "Velocidade: {}x"
+msgstr "Hız: {}x"
+
+msgid "Tom: {}"
+msgstr "Ton: {}"
+
+msgid "Vel+Tom: {}x / {} semitons"
+msgstr "Hız+Ton: {}x / {} yarım ton"
+
+msgid "Avançou {} segundos"
+msgstr "{} saniye ileri sarıldı"
+
+msgid "Retrocedeu {} segundos"
+msgstr "{} saniye geri sarıldı"
+
+msgid "&Continuar"
+msgstr "&Devam Et"
+
+msgid "Carregando próxima..."
+msgstr "Sonraki yükleniyor..."
+
+msgid "Sem próxima faixa"
+msgstr "Sonraki parça yok"
+
+msgid "Reiniciando música"
+msgstr "Parça yeniden başlatılıyor"
+
+msgid "Voltando para anterior..."
+msgstr "Öncekine dönülüyor..."
+
+msgid "Início da lista"
+msgstr "Listenin başı"
+
+msgid "Nenhum dispositivo encontrado"
+msgstr "Cihaz bulunamadı"
+
+msgid "Escolha o dispositivo de saída:"
+msgstr "Çıkış cihazını seçin:"
+
+msgid "Dispositivo de Áudio"
+msgstr "Ses Cihazı"
+
+msgid "Dispositivo alterado para: {}"
+msgstr "Cihaz değiştirildi: {}"
+
+msgid "Auto-Play Habilitado"
+msgstr "Otomatik Oynatma Etkin"
+
+msgid "Auto-Play Desabilitado"
+msgstr "Otomatik Oynatma Devre Dışı"
+
+msgid "Autenticação (Opcional)"
+msgstr "Kimlik Doğrulama (İsteğe Bağlı)"
+
+msgid "Arquivo de cookies (cookies.txt - formato Netscape):"
+msgstr "Çerez dosyası (cookies.txt - Netscape formatı):"
+
+msgid "Procurar..."
+msgstr "Gözat..."
+
+msgid "Dica: Utilize extensões como 'Get cookies.txt LOCALLY' para exportar cookies do navegador. Isso ajuda a contornar bloqueios regionais do YouTube."
+msgstr "İpucu: Tarayıcı çerezlerini dışa aktarmak için 'Get cookies.txt LOCALLY' gibi uzantılar kullanın. Bu, YouTube bölgesel engellerini aşmaya yardımcı olur."
+
+msgid "Selecione o arquivo de cookies"
+msgstr "Çerez dosyasını seçin"
+
+msgid "O arquivo de cookies especificado não existe."
+msgstr "Belirtilen çerez dosyası mevcut değil."
+
+msgid "Erro"
+msgstr "Hata"
+
+msgid "Aguarde, já está carregando..."
+msgstr "Lütfen bekleyin, zaten yükleniyor..."
+
+msgid "Abre o YouTube Music Player"
+msgstr "YouTube Music Player'ı açar"

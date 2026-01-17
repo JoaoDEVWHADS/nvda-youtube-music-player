@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtubeMusicPlayer 1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 00:00+0000\n"
+"PO-Revision-Date: 2026-01-17 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "YouTube Music Player"
+msgstr "YouTube 音乐播放器"
+
+msgid "Pesquisar"
+msgstr "搜索"
+
+msgid "Digite algo para buscar"
+msgstr "输入搜索内容"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Music"
+msgstr "YouTube Music"
+
+msgid "Buscando..."
+msgstr "搜索中..."
+
+msgid "Nenhum resultado encontrado"
+msgstr "未找到结果"
+
+msgid "Erro ao buscar: {}"
+msgstr "搜索错误：{}"
+
+msgid "Sem título"
+msgstr "无标题"
+
+msgid "Tocando: {}"
+msgstr "正在播放：{}"
+
+msgid "Player ({})"
+msgstr "播放器 ({})"
+
+msgid "Parado"
+msgstr "已停止"
+
+msgid "Player"
+msgstr "播放器"
+
+msgid "Player - {}"
+msgstr "播放器 - {}"
+
+msgid "Carregando..."
+msgstr "加载中..."
+
+msgid "&Anterior"
+msgstr "上一首(&P)"
+
+msgid "&Pausar"
+msgstr "暂停(&P)"
+
+msgid "&Próxima"
+msgstr "下一首(&N)"
+
+msgid "&Resultados"
+msgstr "结果(&R)"
+
+msgid "&Desabilitar Auto-Play"
+msgstr "禁用自动播放(&D)"
+
+msgid "&Habilitar Auto-Play"
+msgstr "启用自动播放(&E)"
+
+msgid "&Repetir: Ligado"
+msgstr "循环：开(&R)"
+
+msgid "&Repetir: Desligado"
+msgstr "循环：关(&R)"
+
+msgid "Repetir Faixa: Ligado"
+msgstr "单曲循环：开"
+
+msgid "Repetir Faixa: Desligado"
+msgstr "单曲循环：关"
+
+msgid "Erro ao carregar áudio"
+msgstr "加载音频错误"
+
+msgid "Tocando próxima..."
+msgstr "播放下一首..."
+
+msgid "Fim da lista"
+msgstr "列表结束"
+
+msgid "Reproduzindo"
+msgstr "正在播放"
+
+msgid "Pausado"
+msgstr "已暂停"
+
+msgid "Volume: {}% | Velocidade: {}x | Tom: {}"
+msgstr "音量：{}% | 速度：{}x | 音调：{}"
+
+msgid "Volume: {}%"
+msgstr "音量：{}%"
+
+msgid "Velocidade: {}x"
+msgstr "速度：{}x"
+
+msgid "Tom: {}"
+msgstr "音调：{}"
+
+msgid "Vel+Tom: {}x / {} semitons"
+msgstr "速度+音调：{}x / {} 半音"
+
+msgid "Avançou {} segundos"
+msgstr "快进 {} 秒"
+
+msgid "Retrocedeu {} segundos"
+msgstr "快退 {} 秒"
+
+msgid "&Continuar"
+msgstr "继续(&R)"
+
+msgid "Carregando próxima..."
+msgstr "加载下一首..."
+
+msgid "Sem próxima faixa"
+msgstr "没有下一首"
+
+msgid "Reiniciando música"
+msgstr "重新开始歌曲"
+
+msgid "Voltando para anterior..."
+msgstr "回到上一首..."
+
+msgid "Início da lista"
+msgstr "列表开始"
+
+msgid "Nenhum dispositivo encontrado"
+msgstr "未找到设备"
+
+msgid "Escolha o dispositivo de saída:"
+msgstr "选择输出设备："
+
+msgid "Dispositivo de Áudio"
+msgstr "音频设备"
+
+msgid "Dispositivo alterado para: {}"
+msgstr "设备已更改为：{}"
+
+msgid "Auto-Play Habilitado"
+msgstr "自动播放已启用"
+
+msgid "Auto-Play Desabilitado"
+msgstr "自动播放已禁用"
+
+msgid "Autenticação (Opcional)"
+msgstr "身份验证（可选）"
+
+msgid "Arquivo de cookies (cookies.txt - formato Netscape):"
+msgstr "Cookies 文件 (cookies.txt - Netscape 格式)："
+
+msgid "Procurar..."
+msgstr "浏览..."
+
+msgid "Dica: Utilize extensões como 'Get cookies.txt LOCALLY' para exportar cookies do navegador. Isso ajuda a contornar bloqueios regionais do YouTube."
+msgstr "提示：使用 'Get cookies.txt LOCALLY' 等扩展程序导出浏览器 cookies。这有助于绕过 YouTube 的地区限制。"
+
+msgid "Selecione o arquivo de cookies"
+msgstr "选择 cookies 文件"
+
+msgid "O arquivo de cookies especificado não existe."
+msgstr "指定的 cookies 文件不存在。"
+
+msgid "Erro"
+msgstr "错误"
+
+msgid "Aguarde, já está carregando..."
+msgstr "请稍等，正在加载中..."
+
+msgid "Abre o YouTube Music Player"
+msgstr "打开YouTube Music Player"

@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtubeMusicPlayer 1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 00:00+0000\n"
+"PO-Revision-Date: 2026-01-17 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "YouTube Music Player"
+msgstr "YouTube Music プレーヤー"
+
+msgid "Pesquisar"
+msgstr "検索"
+
+msgid "Digite algo para buscar"
+msgstr "検索ワードを入力してください"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Music"
+msgstr "YouTube Music"
+
+msgid "Buscando..."
+msgstr "検索中..."
+
+msgid "Nenhum resultado encontrado"
+msgstr "結果が見つかりません"
+
+msgid "Erro ao buscar: {}"
+msgstr "検索エラー: {}"
+
+msgid "Sem título"
+msgstr "無題"
+
+msgid "Tocando: {}"
+msgstr "再生中: {}"
+
+msgid "Player ({})"
+msgstr "プレーヤー ({})"
+
+msgid "Parado"
+msgstr "停止"
+
+msgid "Player"
+msgstr "プレーヤー"
+
+msgid "Player - {}"
+msgstr "プレーヤー - {}"
+
+msgid "Carregando..."
+msgstr "読み込み中..."
+
+msgid "&Anterior"
+msgstr "前へ(&P)"
+
+msgid "&Pausar"
+msgstr "一時停止(&P)"
+
+msgid "&Próxima"
+msgstr "次へ(&N)"
+
+msgid "&Resultados"
+msgstr "結果(&R)"
+
+msgid "&Desabilitar Auto-Play"
+msgstr "自動再生を無効化(&D)"
+
+msgid "&Habilitar Auto-Play"
+msgstr "自動再生を有効化(&E)"
+
+msgid "&Repetir: Ligado"
+msgstr "リピート: オン(&R)"
+
+msgid "&Repetir: Desligado"
+msgstr "リピート: オフ(&R)"
+
+msgid "Repetir Faixa: Ligado"
+msgstr "トラックリピート: オン"
+
+msgid "Repetir Faixa: Desligado"
+msgstr "トラックリピート: オフ"
+
+msgid "Erro ao carregar áudio"
+msgstr "オーディオ読み込みエラー"
+
+msgid "Tocando próxima..."
+msgstr "次を再生中..."
+
+msgid "Fim da lista"
+msgstr "リストの最後"
+
+msgid "Reproduzindo"
+msgstr "再生中"
+
+msgid "Pausado"
+msgstr "一時停止中"
+
+msgid "Volume: {}% | Velocidade: {}x | Tom: {}"
+msgstr "音量: {}% | 速度: {}x | ピッチ: {}"
+
+msgid "Volume: {}%"
+msgstr "音量: {}%"
+
+msgid "Velocidade: {}x"
+msgstr "速度: {}x"
+
+msgid "Tom: {}"
+msgstr "ピッチ: {}"
+
+msgid "Vel+Tom: {}x / {} semitons"
+msgstr "速度+ピッチ: {}x / {} 半音"
+
+msgid "Avançou {} segundos"
+msgstr "{} 秒進みました"
+
+msgid "Retrocedeu {} segundos"
+msgstr "{} 秒戻りました"
+
+msgid "&Continuar"
+msgstr "再開(&R)"
+
+msgid "Carregando próxima..."
+msgstr "次を読み込み中..."
+
+msgid "Sem próxima faixa"
+msgstr "次のトラックはありません"
+
+msgid "Reiniciando música"
+msgstr "トラックを再起動"
+
+msgid "Voltando para anterior..."
+msgstr "前に戻る..."
+
+msgid "Início da lista"
+msgstr "リストの先頭"
+
+msgid "Nenhum dispositivo encontrado"
+msgstr "デバイスが見つかりません"
+
+msgid "Escolha o dispositivo de saída:"
+msgstr "出力デバイスを選択:"
+
+msgid "Dispositivo de Áudio"
+msgstr "オーディオデバイス"
+
+msgid "Dispositivo alterado para: {}"
+msgstr "デバイスが変更されました: {}"
+
+msgid "Auto-Play Habilitado"
+msgstr "自動再生が有効"
+
+msgid "Auto-Play Desabilitado"
+msgstr "自動再生が無効"
+
+msgid "Autenticação (Opcional)"
+msgstr "認証 (オプション)"
+
+msgid "Arquivo de cookies (cookies.txt - formato Netscape):"
+msgstr "Cookie ファイル (cookies.txt - Netscape 形式):"
+
+msgid "Procurar..."
+msgstr "参照..."
+
+msgid "Dica: Utilize extensões como 'Get cookies.txt LOCALLY' para exportar cookies do navegador. Isso ajuda a contornar bloqueios regionais do YouTube."
+msgstr "ヒント: ブラウザの Cookie をエクスポートするには 'Get cookies.txt LOCALLY' などの拡張機能を使用してください。これにより、YouTube の地域制限を回避できます。"
+
+msgid "Selecione o arquivo de cookies"
+msgstr "Cookie ファイルを選択"
+
+msgid "O arquivo de cookies especificado não existe."
+msgstr "指定された Cookie ファイルは存在しません。"
+
+msgid "Erro"
+msgstr "エラー"
+
+msgid "Aguarde, já está carregando..."
+msgstr "お待ちください、読み込み中です..."
+
+msgid "Abre o YouTube Music Player"
+msgstr "YouTube Music Playerを開く"

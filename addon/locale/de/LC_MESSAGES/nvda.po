@@ -1,0 +1,186 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtubeMusicPlayer 1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 00:00+0000\n"
+"PO-Revision-Date: 2026-01-17 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "YouTube Music Player"
+msgstr "YouTube Music Player"
+
+msgid "Pesquisar"
+msgstr "Suchen"
+
+msgid "Digite algo para buscar"
+msgstr "Geben Sie etwas zum Suchen ein"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Music"
+msgstr "YouTube Music"
+
+msgid "Buscando..."
+msgstr "Suche..."
+
+msgid "Nenhum resultado encontrado"
+msgstr "Keine Ergebnisse gefunden"
+
+msgid "Erro ao buscar: {}"
+msgstr "Fehler bei der Suche: {}"
+
+msgid "Sem título"
+msgstr "Ohne Titel"
+
+msgid "Tocando: {}"
+msgstr "Wiedergabe: {}"
+
+msgid "Player ({})"
+msgstr "Player ({})"
+
+msgid "Parado"
+msgstr "Angehalten"
+
+msgid "Player"
+msgstr "Player"
+
+msgid "Player - {}"
+msgstr "Player - {}"
+
+msgid "Carregando..."
+msgstr "Laden..."
+
+msgid "&Anterior"
+msgstr "&Zurück"
+
+msgid "&Pausar"
+msgstr "&Pause"
+
+msgid "&Próxima"
+msgstr "&Weiter"
+
+msgid "&Resultados"
+msgstr "&Ergebnisse"
+
+msgid "&Desabilitar Auto-Play"
+msgstr "Auto-Play &Deaktivieren"
+
+msgid "&Habilitar Auto-Play"
+msgstr "Auto-Play &Aktivieren"
+
+msgid "&Repetir: Ligado"
+msgstr "&Wiederholen: Ein"
+
+msgid "&Repetir: Desligado"
+msgstr "&Wiederholen: Aus"
+
+msgid "Repetir Faixa: Ligado"
+msgstr "Titel Wiederholen: Ein"
+
+msgid "Repetir Faixa: Desligado"
+msgstr "Titel Wiederholen: Aus"
+
+msgid "Erro ao carregar áudio"
+msgstr "Fehler beim Laden des Audios"
+
+msgid "Tocando próxima..."
+msgstr "Nächster Titel..."
+
+msgid "Fim da lista"
+msgstr "Ende der Liste"
+
+msgid "Reproduzindo"
+msgstr "Wiedergabe"
+
+msgid "Pausado"
+msgstr "Pausiert"
+
+msgid "Volume: {}% | Velocidade: {}x | Tom: {}"
+msgstr "Lautstärke: {}% | Geschwindigkeit: {}x | Tonhöhe: {}"
+
+msgid "Volume: {}%"
+msgstr "Lautstärke: {}%"
+
+msgid "Velocidade: {}x"
+msgstr "Geschwindigkeit: {}x"
+
+msgid "Tom: {}"
+msgstr "Tonhöhe: {}"
+
+msgid "Vel+Tom: {}x / {} semitons"
+msgstr "Geschw.+Ton: {}x / {} Halbtöne"
+
+msgid "Avançou {} segundos"
+msgstr "{} Sekunden vorgespult"
+
+msgid "Retrocedeu {} segundos"
+msgstr "{} Sekunden zurückgespult"
+
+msgid "&Continuar"
+msgstr "&Fortsetzen"
+
+msgid "Carregando próxima..."
+msgstr "Nächster Titel wird geladen..."
+
+msgid "Sem próxima faixa"
+msgstr "Kein nächster Titel"
+
+msgid "Reiniciando música"
+msgstr "Titel neu starten"
+
+msgid "Voltando para anterior..."
+msgstr "Zurück zum vorherigen..."
+
+msgid "Início da lista"
+msgstr "Anfang der Liste"
+
+msgid "Nenhum dispositivo encontrado"
+msgstr "Kein Gerät gefunden"
+
+msgid "Escolha o dispositivo de saída:"
+msgstr "Wählen Sie das Ausgabegerät:"
+
+msgid "Dispositivo de Áudio"
+msgstr "Audiogerät"
+
+msgid "Dispositivo alterado para: {}"
+msgstr "Gerät geändert zu: {}"
+
+msgid "Auto-Play Habilitado"
+msgstr "Auto-Play Aktiviert"
+
+msgid "Auto-Play Desabilitado"
+msgstr "Auto-Play Deaktiviert"
+
+msgid "Autenticação (Opcional)"
+msgstr "Authentifizierung (Optional)"
+
+msgid "Arquivo de cookies (cookies.txt - formato Netscape):"
+msgstr "Cookie-Datei (cookies.txt - Netscape-Format):"
+
+msgid "Procurar..."
+msgstr "Durchsuchen..."
+
+msgid "Dica: Utilize extensões como 'Get cookies.txt LOCALLY' para exportar cookies do navegador. Isso ajuda a contornar bloqueios regionais do YouTube."
+msgstr "Tipp: Verwenden Sie Erweiterungen wie 'Get cookies.txt LOCALLY', um Browser-Cookies zu exportieren. Dies hilft, regionale YouTube-Sperren zu umgehen."
+
+msgid "Selecione o arquivo de cookies"
+msgstr "Wählen Sie die Cookie-Datei"
+
+msgid "O arquivo de cookies especificado não existe."
+msgstr "Die angegebene Cookie-Datei existiert nicht."
+
+msgid "Erro"
+msgstr "Fehler"
+
+msgid "Aguarde, já está carregando..."
+msgstr "Bitte warten, wird bereits geladen..."
+
+msgid "Abre o YouTube Music Player"
+msgstr "Öffnet den YouTube Music Player"

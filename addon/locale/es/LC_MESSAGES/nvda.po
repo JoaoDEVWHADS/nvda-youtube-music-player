@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: youtubeMusicPlayer 1.4.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-17 00:00+0000\n"
+"PO-Revision-Date: 2026-01-17 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "YouTube Music Player"
+msgstr "Reproductor de YouTube Music"
+
+msgid "Pesquisar"
+msgstr "Buscar"
+
+msgid "Digite algo para buscar"
+msgstr "Escribe algo para buscar"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "YouTube Music"
+msgstr "YouTube Music"
+
+msgid "Buscando..."
+msgstr "Buscando..."
+
+msgid "Nenhum resultado encontrado"
+msgstr "No se encontraron resultados"
+
+msgid "Erro ao buscar: {}"
+msgstr "Error al buscar: {}"
+
+msgid "Sem título"
+msgstr "Sin título"
+
+msgid "Tocando: {}"
+msgstr "Reproduciendo: {}"
+
+msgid "Player ({})"
+msgstr "Reproductor ({})"
+
+msgid "Parado"
+msgstr "Detenido"
+
+msgid "Player"
+msgstr "Reproductor"
+
+msgid "Player - {}"
+msgstr "Reproductor - {}"
+
+msgid "Carregando..."
+msgstr "Cargando..."
+
+msgid "&Anterior"
+msgstr "&Anterior"
+
+msgid "&Pausar"
+msgstr "&Pausar"
+
+msgid "&Próxima"
+msgstr "&Siguiente"
+
+msgid "&Resultados"
+msgstr "&Resultados"
+
+msgid "&Desabilitar Auto-Play"
+msgstr "&Desactivar Auto-Play"
+
+msgid "&Habilitar Auto-Play"
+msgstr "&Activar Auto-Play"
+
+msgid "&Repetir: Ligado"
+msgstr "&Repetir: Encendido"
+
+msgid "&Repetir: Desligado"
+msgstr "&Repetir: Apagado"
+
+msgid "Repetir Faixa: Ligado"
+msgstr "Repetir Pista: Encendido"
+
+msgid "Repetir Faixa: Desligado"
+msgstr "Repetir Pista: Apagado"
+
+msgid "Erro ao carregar áudio"
+msgstr "Error al cargar audio"
+
+msgid "Tocando próxima..."
+msgstr "Reproduciendo siguiente..."
+
+msgid "Fim da lista"
+msgstr "Fin de la lista"
+
+msgid "Reproduzindo"
+msgstr "Reproduciendo"
+
+msgid "Pausado"
+msgstr "Pausado"
+
+msgid "Volume: {}% | Velocidade: {}x | Tom: {}"
+msgstr "Volumen: {}% | Velocidad: {}x | Tono: {}"
+
+msgid "Volume: {}%"
+msgstr "Volumen: {}%"
+
+msgid "Velocidade: {}x"
+msgstr "Velocidad: {}x"
+
+msgid "Tom: {}"
+msgstr "Tono: {}"
+
+msgid "Vel+Tom: {}x / {} semitons"
+msgstr "Vel+Ton: {}x / {} semitonos"
+
+msgid "Avançou {} segundos"
+msgstr "Avanzó {} segundos"
+
+msgid "Retrocedeu {} segundos"
+msgstr "Retrocedió {} segundos"
+
+msgid "&Continuar"
+msgstr "&Continuar"
+
+msgid "Carregando próxima..."
+msgstr "Cargando siguiente..."
+
+msgid "Sem próxima faixa"
+msgstr "No hay siguiente pista"
+
+msgid "Reiniciando música"
+msgstr "Reiniciando pista"
+
+msgid "Voltando para anterior..."
+msgstr "Volviendo a la anterior..."
+
+msgid "Início da lista"
+msgstr "Inicio de la lista"
+
+msgid "Nenhum dispositivo encontrado"
+msgstr "Ningún dispositivo encontrado"
+
+msgid "Escolha o dispositivo de saída:"
+msgstr "Elija el dispositivo de salida:"
+
+msgid "Dispositivo de Áudio"
+msgstr "Dispositivo de Audio"
+
+msgid "Dispositivo alterado para: {}"
+msgstr "Dispositivo cambiado a: {}"
+
+msgid "Auto-Play Habilitado"
+msgstr "Auto-Play Activado"
+
+msgid "Auto-Play Desabilitado"
+msgstr "Auto-Play Desactivado"
+
+msgid "Autenticação (Opcional)"
+msgstr "Autenticación (Opcional)"
+
+msgid "Arquivo de cookies (cookies.txt - formato Netscape):"
+msgstr "Archivo de cookies (cookies.txt - formato Netscape):"
+
+msgid "Procurar..."
+msgstr "Buscar..."
+
+msgid "Dica: Utilize extensões como 'Get cookies.txt LOCALLY' para exportar cookies do navegador. Isso ajuda a contornar bloqueios regionais do YouTube."
+msgstr "Consejo: Use extensiones como 'Get cookies.txt LOCALLY' para exportar cookies del navegador. Esto ayuda a evitar bloqueos regionales de YouTube."
+
+msgid "Selecione o arquivo de cookies"
+msgstr "Seleccione el archivo de cookies"
+
+msgid "O arquivo de cookies especificado não existe."
+msgstr "El archivo de cookies especificado no existe."
+
+msgid "Erro"
+msgstr "Error"
+
+msgid "YouTube Music Player - Informação Importante"
+msgstr "YouTube Music Player - Información Importante"
+
+msgid ""
+"Bem-vindo ao YouTube Music Player!\n\n"
+"Nota Importante sobre Cookies:\n"
+"O YouTube está constantemente atualizando suas políticas de segurança, o que pode causar instabilidade "
+"no uso de cookies para autenticação. Se você configurar os cookies e a reprodução falhar "
+"(música muda ou erros), isso pode ser devido a bloqueios recentes do YouTube.\n\n"
+"O add-on continuará funcionando normalmente sem cookies para a maioria dos conteúdos públicos."
+msgstr ""
+"¡Bienvenido a YouTube Music Player!\n\n"
+"Nota Importante sobre Cookies:\n"
+"YouTube actualiza constantemente sus políticas de seguridad, lo que puede causar inestabilidad "
+"al usar cookies para autenticación. Si configuras cookies y la reproducción falla "
+"(música muda o errores), esto puede deberse a bloqueos recientes de YouTube.\n\n"
+"El complemento continuará funcionando normalmente sin cookies para la mayoría del contenido público."
+
+msgid "Aguarde, já está carregando..."
+msgstr "Por favor espere, ya está cargando..."
+
+msgid "Abre o YouTube Music Player"
+msgstr "Abre el YouTube Music Player"
