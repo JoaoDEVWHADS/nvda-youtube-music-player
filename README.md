@@ -41,4 +41,4 @@ This project is licensed under the GPL v2 - see the [LICENSE](LICENSE) file for 
 
 ## 🛠️ Developer Information
 
-For advanced usage and contribution, please refer to the [docs folder](./docs). There you will find a complete guide on how to set up the development environment and install the necessary dependencies.
+For advanced usage and contribution, please refer to the [docs folder](./doc). There you will find a complete guide on how to set up the development environment and install the necessary dependencies.
