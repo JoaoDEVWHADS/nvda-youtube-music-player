@@ -29,16 +29,16 @@
 
 If you are a developer or an advanced user, please select the specific guide you need from the list below:
 
-- [**01 - Quick Start**](01-quick-start.md): Get up and running quickly.
-- [**02 - Prerequisites**](02-prerequisites.md): Tools needed for development.
-- [**03 - Project Structure**](03-project-structure.md): Overview of the codebase layout.
-- [**04 - Manual Build**](04-manual-build.md): How to compile the add-on from source.
-- [**05 - Dependencies**](05-dependencies.md): Managing Python libraries and binaries.
-- [**06 - Configuration**](06-configuration.md): Deep dive into settings and cookies.
-- [**07 - Translations**](07-translations.md): How to translate the add-on.
-- [**08 - Testing**](08-testing.md): Running tests and verifying builds.
-- [**09 - Troubleshooting**](09-troubleshooting.md): Common issues and solutions.
-- [**10 - Contributing**](10-contributing.md): Guidelines for contributing code.
+- [**01 - Quick Start**](01-quick-start.md)
+- [**02 - Prerequisites**](02-prerequisites.md)
+- [**03 - Project Structure**](03-project-structure.md)
+- [**04 - Manual Build**](04-manual-build.md)
+- [**05 - Dependencies**](05-dependencies.md)
+- [**06 - Configuration**](06-configuration.md)
+- [**07 - Translations**](07-translations.md)
+- [**08 - Testing**](08-testing.md)
+- [**09 - Troubleshooting**](09-troubleshooting.md)
+- [**10 - Contributing**](10-contributing.md)
 
 ---
 
