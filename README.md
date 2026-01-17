@@ -27,11 +27,18 @@
 
 ## 📄 License
 
-GPL v2 - See [LICENSE](LICENSE)
+This project is licensed under the GPL v2 - see the [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
 
 **JoaoDEVWHADS**
 
-## 📞 Contact / Contato
-Feedback: https://t.me/tierryt2021
+## 📞 Contact / Support
+
+- **Feedback & Support:** [Telegram Channel](https://t.me/tierryt2021)
+
+---
+
+## 🛠️ Developer Information
+
+For advanced usage and contribution, please refer to the `docs` folder. There you will find a complete guide on how to set up the development environment and install the necessary dependencies.
