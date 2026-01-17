@@ -110,13 +110,22 @@ def fetch_latest_release() -> dict:
         download_url = None
         version = None
         asset_name = None
+        found_assets = []
+
+        if 'assets' not in data or not data['assets']:
+            log.warning(f"YouTubeMusicPlayer: Release {data.get('name', 'Unknown')} has NO assets attached. Cannot update.")
+            return None
 
         for asset in data.get('assets', []):
-            asset_name = asset.get('name', '')
-            if asset_name.endswith('.nvda-addon'):
+            name = asset.get('name', '')
+            found_assets.append(name)
+            
+            # Case-insensitive check and ensure it's an .nvda-addon file
+            if name.lower().endswith('.nvda-addon'):
                 download_url = asset.get('browser_download_url')
+                asset_name = name
 
-                version_tuple = parse_version(asset_name)
+                version_tuple = parse_version(name)
                 if version_tuple[0] >= 2000:
                     version = f"{version_tuple[0]}.{version_tuple[1]:02d}.{version_tuple[2]:02d}"
                 else:
@@ -125,6 +134,7 @@ def fetch_latest_release() -> dict:
 
         if not download_url:
             log.warning("YouTubeMusicPlayer: No .nvda-addon asset found in latest release")
+            log.debug(f"YouTubeMusicPlayer: Found assets (non-matching): {found_assets}")
             return None
 
         return {
