@@ -1,34 +1,59 @@
-# YouTube Music Player - Documentation Hub
+# YouTube Music Player for NVDA
 
-Welcome to the technical documentation for the YouTube Music Player NVDA add-on.
+🎵 An accessible NVDA add-on to search and play music from YouTube and YouTube Music.
 
-## 📚 Technical Guides
-Detailed guides for developers and advanced users:
-
-- [**01 - Quick Start**](01-quick-start.md): Get up and running quickly.
-- [**02 - Prerequisites**](02-prerequisites.md): Tools needed for development.
-- [**03 - Project Structure**](03-project-structure.md): Overview of the codebase layout.
-- [**04 - Manual Build**](04-manual-build.md): How to compile the add-on from source.
-- [**05 - Dependencies**](05-dependencies.md): Managing Python libraries and binaries.
-- [**06 - Configuration**](06-configuration.md): Deep dive into settings and cookies.
-- [**07 - Translations**](07-translations.md): How to translate the add-on.
-- [**08 - Testing**](08-testing.md): Running tests and verifying builds.
-- [**09 - Troubleshooting**](09-troubleshooting.md): Common issues and solutions.
-- [**10 - Contributing**](10-contributing.md): Guidelines for contributing code.
-
-## 🌍 Language Readmes (Mirrors)
-Localized documentation files:
-
-- [🇸🇦 Arabic](readme_ar.md)
-- [🇩🇪 German](readme_de.md)
-- [🇪🇸 Spanish](readme_es.md)
-- [🇫🇷 French](readme_fr.md)
-- [🇮🇹 Italian](readme_it.md)
-- [🇯🇵 Japanese](readme_ja.md)
-- [🇧🇷 Portuguese](readme_pt.md)
-- [🇷🇺 Russian](readme_ru.md)
-- [🇹🇷 Turkish](readme_tr.md)
-- [🇨🇳 Chinese](readme_zh.md)
+[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+[![NVDA](https://img.shields.io/badge/NVDA-2023.1+-green.svg)](https://www.nvaccess.org/)
 
 ---
-[Return to Root](../../readme.md)
+
+## 🌍 Read in Your Language
+
+| Language | Documentation |
+|----------|---------------|
+| 🇺🇸 English | [Read Documentation](addon/doc/en/readme.md) |
+| 🇧🇷 Português | [Leia a Documentação](addon/doc/pt_BR/readme.md) |
+| 🇪🇸 Español | [Leer Documentación](addon/doc/es/readme.md) |
+| 🇫🇷 Français | [Lire la Documentation](addon/doc/fr/readme.md) |
+| 🇩🇪 Deutsch | [Dokumentation lesen](addon/doc/de/readme.md) |
+| 🇮🇹 Italiano | [Leggi la Documentazione](addon/doc/it/readme.md) |
+| 🇷🇺 Русский | [Читать документацию](addon/doc/ru/readme.md) |
+| 🇯🇵 日本語 | [ドキュメントを読む](addon/doc/ja/readme.md) |
+| 🇨🇳 中文 | [阅读文档](addon/doc/zh_CN/readme.md) |
+| 🇹🇷 Türkçe | [Belgeleri Oku](addon/doc/tr/readme.md) |
+| 🇸🇦 العربية | [اقرأ الوثائق](addon/doc/ar/readme.md) |
+
+---
+
+## 📄 License
+
+This project is licensed under the GPL v2 - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**JoaoDEVWHADS**
+
+## 📞 Contact / Support
+
+- **Feedback & Support:** [Telegram Channel](https://t.me/tierryt2021)
+
+---
+
+## 🛠️ Developer Information
+
+Are you a developer or an advanced user? We have a dedicated **Documentation Hub** for you! 
+
+Please navigate to our [**docs folder**](./docs) and choose the specific guide that fits your needs. Our documentation includes:
+
+- **01 - Quick Start**: Get up and running quickly.
+- **02 - Prerequisites**: Tools needed for development.
+- **03 - Project Structure**: Overview of the codebase.
+- **04 - Manual Build**: How to compile from source.
+- **05 - Dependencies**: Managing libraries and binaries.
+- **06 - Configuration**: Deep dive into settings and cookies.
+- **07 - Translations**: How to contribute with new languages.
+- **08 - Testing**: Verifying your builds.
+- **09 - Troubleshooting**: Solutions for common issues.
+- **10 - Contributing**: Guidelines for code contribution.
+
+You can access the full index directly here: [**Technical Documentation Hub**](./docs/readme.md)
