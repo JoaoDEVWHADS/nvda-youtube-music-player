@@ -36,7 +36,11 @@ GITHUB_API_URL = "https://api.github.com/repos/JoaoDEVWHADS/nvda-youtube-music-p
 USER_AGENT = "NVDA-YouTubeMusicPlayer-UpdateChecker/1.0"
 
 
-CURRENT_VERSION = "2026.01.17"
+try:
+    import addonHandler
+    CURRENT_VERSION = addonHandler.getCodeAddon().manifest.get('version', '2026.01.17')
+except Exception:
+    CURRENT_VERSION = "2026.01.17"
 
 
 ADDON_NAME = "youtubeMusicPlayer"
@@ -48,25 +52,31 @@ def parse_version(version_string: str) -> tuple:
 
     Handles formats like:
     - "2026.01.17"
-    - "youtubeMusicPlayer-2026.01.17.nvda-addon"
-    - "1.4.8"
+    - "2026.01.18.1"
+    - "2026.05.24.1221"
+    - "youtubeMusicPlayer-2026.05.24.1221.nvda-addon"
 
     Returns tuple of integers for comparison
     """
-
-    match = re.search(r'(\d{4})[\.\-](\d{1,2})[\.\-](\d{1,2})', version_string)
+    match = re.search(r'(\d{4})[\.\-](\d{1,2})[\.\-](\d{1,2})(?:[\.\-_](\d+))?', version_string)
     if match:
-        return tuple(int(x) for x in match.groups())
+        parts = []
+        for x in match.groups():
+            if x is not None:
+                parts.append(int(x))
+        return tuple(parts)
 
-
-    match = re.search(r'(\d+)\.(\d+)\.(\d+)', version_string)
+    match = re.search(r'(\d+)\.(\d+)\.(\d+)(?:\.(\d+))?', version_string)
     if match:
-        return tuple(int(x) for x in match.groups())
-
+        parts = []
+        for x in match.groups():
+            if x is not None:
+                parts.append(int(x))
+        return tuple(parts)
 
     numbers = re.findall(r'\d+', version_string)
     if len(numbers) >= 3:
-        return tuple(int(x) for x in numbers[:3])
+        return tuple(int(x) for x in numbers[:4])
 
     return (0, 0, 0)
 
@@ -127,9 +137,15 @@ def fetch_latest_release() -> dict:
 
                 version_tuple = parse_version(name)
                 if version_tuple[0] >= 2000:
-                    version = f"{version_tuple[0]}.{version_tuple[1]:02d}.{version_tuple[2]:02d}"
+                    if len(version_tuple) >= 4:
+                        version = f"{version_tuple[0]}.{version_tuple[1]:02d}.{version_tuple[2]:02d}.{version_tuple[3]}"
+                    else:
+                        version = f"{version_tuple[0]}.{version_tuple[1]:02d}.{version_tuple[2]:02d}"
                 else:
-                    version = f"{version_tuple[0]}.{version_tuple[1]}.{version_tuple[2]}"
+                    if len(version_tuple) >= 4:
+                        version = f"{version_tuple[0]}.{version_tuple[1]}.{version_tuple[2]}.{version_tuple[3]}"
+                    else:
+                        version = f"{version_tuple[0]}.{version_tuple[1]}.{version_tuple[2]}"
                 break
 
         if not download_url:
