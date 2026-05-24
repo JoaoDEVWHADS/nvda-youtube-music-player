@@ -1,0 +1,54 @@
+name: Build and Release Addon
+
+on:
+  push:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: 3.11
+
+    - name: Install build tools
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y gettext unzip p7zip-full curl
+
+    - name: Install dependencies and build
+      run: |
+        chmod +x install_dependencies.sh
+        ./install_dependencies.sh
+
+    - name: Generate tag and release info
+      id: release_info
+      run: |
+        TAG_NAME=$(date +'%Y-%m-%d_%H-%M')
+        echo "TAG_NAME=$TAG_NAME" >> $GITHUB_ENV
+
+    - name: Create and push tag
+      run: |
+        git config --local user.name 'github-actions'
+        git config --local user.email 'github-actions@github.com'
+        git tag ${{ env.TAG_NAME }}
+        git push "https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" ${{ env.TAG_NAME }}
+
+    - name: Create GitHub Release
+      uses: softprops/action-gh-release@v2
+      with:
+        tag_name: ${{ env.TAG_NAME }}
+        name: Version ${{ env.TAG_NAME }}
+        files: ./*.nvda-addon
+        fail_on_unmatched_files: true
