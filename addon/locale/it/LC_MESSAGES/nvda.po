@@ -184,3 +184,71 @@ msgstr "Attendere prego, già in caricamento..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "Apre il YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "Aggiornamento disponibile - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "È disponibile una nuova versione di YouTube Music Player!\n"
+"\n"
+"Versione corrente: {current}\n"
+"Nuova versione: {new}\n"
+"\n"
+"Fai clic su 'Scarica e Installa' per aggiornare automaticamente."
+
+msgid "Release: {}"
+msgstr "Rilascio: {}"
+
+msgid "&Download and Install"
+msgstr "&Scarica e Installa"
+
+msgid "&Close"
+msgstr "&Chiudi"
+
+msgid "Downloading update... Please wait."
+msgstr "Download dell'aggiornamento in corso... Attendere."
+
+msgid "Error: Failed to download update"
+msgstr "Errore: Impossibile scaricare l'aggiornamento"
+
+msgid "Error: Failed to install update"
+msgstr "Errore: Impossibile installare l'aggiornamento"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "Errore: Aggiornamento fallito. Controllare il log di NVDA per i dettagli."
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "Aggiornamento installato con successo! NVDA deve essere riavviato."
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player è stato aggiornato alla versione {version}.\n"
+"\n"
+"NVDA deve essere riavviato affinché l'aggiornamento abbia effetto.\n"
+"\n"
+"Riavviare NVDA ora?"
+
+msgid "Update Installed"
+msgstr "Aggiornamento Installato"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "L'aggiornamento è fallito perché i file sono in uso.\n"
+"\n"
+"Per favore RIAVVIA NVDA e prova ad aggiornare immediatamente,\n"
+"\n"
+"SENZA aprire le impostazioni dell'add-on."
+
+msgid "Update Failed - Files Locked"
+msgstr "Aggiornamento fallito - File bloccati"

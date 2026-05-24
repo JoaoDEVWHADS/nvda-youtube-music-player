@@ -202,3 +202,71 @@ msgstr "Por favor espere, ya está cargando..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "Abre el YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "Actualización disponible - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "¡Una nueva versión de YouTube Music Player está disponible!\n"
+"\n"
+"Versión actual: {current}\n"
+"Versión nueva: {new}\n"
+"\n"
+"Haz clic en 'Descargar e Instalar' para actualizar automáticamente."
+
+msgid "Release: {}"
+msgstr "Versión: {}"
+
+msgid "&Download and Install"
+msgstr "&Descargar e Instalar"
+
+msgid "&Close"
+msgstr "&Cerrar"
+
+msgid "Downloading update... Please wait."
+msgstr "Descargando actualización... Por favor, espera."
+
+msgid "Error: Failed to download update"
+msgstr "Error: fallo al descargar la actualización"
+
+msgid "Error: Failed to install update"
+msgstr "Error: fallo al instalar la actualización"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "Error: fallo en la actualización. Consulta el log de NVDA para más detalles."
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "¡Actualización instalada con éxito! NVDA debe reiniciarse."
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player se ha actualizado a la versión {version}.\n"
+"\n"
+"NVDA debe reiniciarse para que los cambios surtan efecto.\n"
+"\n"
+"¿Reiniciar NVDA ahora?"
+
+msgid "Update Installed"
+msgstr "Actualización Instalada"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "La actualización falló porque los archivos están en uso.\n"
+"\n"
+"Por favor, REINICIA NVDA e intenta actualizar inmediatamente,\n"
+"\n"
+"SIN abrir la configuración del complemento."
+
+msgid "Update Failed - Files Locked"
+msgstr "Fallo en la actualización - Archivos bloqueados"

@@ -184,3 +184,71 @@ msgstr "Пожалуйста, подождите, уже загружается.
 
 msgid "Abre o YouTube Music Player"
 msgstr "Открывает YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "Доступно обновление - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "Доступна новая версия YouTube Music Player!\n"
+"\n"
+"Текущая версия: {current}\n"
+"Новая версия: {new}\n"
+"\n"
+"Нажмите «Загрузить и установить», чтобы обновиться автоматически."
+
+msgid "Release: {}"
+msgstr "Релиз: {}"
+
+msgid "&Download and Install"
+msgstr "&Загрузить и установить"
+
+msgid "&Close"
+msgstr "&Закрыть"
+
+msgid "Downloading update... Please wait."
+msgstr "Загрузка обновления... Пожалуйста, подождите."
+
+msgid "Error: Failed to download update"
+msgstr "Ошибка: Не удалось загрузить обновление"
+
+msgid "Error: Failed to install update"
+msgstr "Ошибка: Не удалось установить обновление"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "Ошибка: Обновление не удалось. Проверьте лог NVDA для деталей."
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "Обновление успешно установлено! NVDA необходимо перезапустить."
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player был обновлен до версии {version}.\n"
+"\n"
+"Для вступления обновления в силу необходимо перезапустить NVDA.\n"
+"\n"
+"Перезапустить NVDA сейчас?"
+
+msgid "Update Installed"
+msgstr "Обновление установлено"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "Обновление не удалось, так как файлы используются.\n"
+"\n"
+"Пожалуйста, ПЕРЕЗАПУСТИТЕ NVDA и попробуйте обновиться сразу,\n"
+"\n"
+"НЕ открывая настройки дополнения."
+
+msgid "Update Failed - Files Locked"
+msgstr "Обновление не удалось - файлы заблокированы"

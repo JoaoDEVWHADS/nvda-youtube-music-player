@@ -184,3 +184,71 @@ msgstr "お待ちください、読み込み中です..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "YouTube Music Playerを開く"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "更新が利用可能です - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "YouTube Music Playerの新バージョンが利用可能です！\n"
+"\n"
+"現在のバージョン: {current}\n"
+"新しいバージョン: {new}\n"
+"\n"
+"「ダウンロードしてインストール」をクリックすると自動的に更新されます。"
+
+msgid "Release: {}"
+msgstr "リリース: {}"
+
+msgid "&Download and Install"
+msgstr "ダウンロードしてインストール(&D)"
+
+msgid "&Close"
+msgstr "閉じる(&C)"
+
+msgid "Downloading update... Please wait."
+msgstr "更新をダウンロードしています... しばらくお待ちください。"
+
+msgid "Error: Failed to download update"
+msgstr "エラー: 更新のダウンロードに失敗しました"
+
+msgid "Error: Failed to install update"
+msgstr "エラー: 更新のインストールに失敗しました"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "エラー: 更新に失敗しました。詳細はNVDAログを確認してください。"
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "更新が正常にインストールされました！NVDAを再起動する必要があります。"
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Playerはバージョン {version} に更新されました。\n"
+"\n"
+"更新を有効にするにはNVDAを再起動する必要があります。\n"
+"\n"
+"今すぐNVDAを再起動しますか？"
+
+msgid "Update Installed"
+msgstr "更新インストール完了"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "ファイルが使用中のため、更新に失敗しました。\n"
+"\n"
+"NVDAを再起動し、アドオン設定を開かずに\n"
+"\n"
+"すぐに更新を試してください。"
+
+msgid "Update Failed - Files Locked"
+msgstr "更新失敗 - ファイルロック"

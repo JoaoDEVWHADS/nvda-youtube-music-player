@@ -184,3 +184,71 @@ msgstr "请稍等，正在加载中..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "打开YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "有可用更新 - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "YouTube Music Player有新版本可用！\n"
+"\n"
+"当前版本: {current}\n"
+"新版本: {new}\n"
+"\n"
+"点击“下载并安装”以自动更新。"
+
+msgid "Release: {}"
+msgstr "发布版本: {}"
+
+msgid "&Download and Install"
+msgstr "下载并安装(&D)"
+
+msgid "&Close"
+msgstr "关闭(&C)"
+
+msgid "Downloading update... Please wait."
+msgstr "正在下载更新... 请稍候。"
+
+msgid "Error: Failed to download update"
+msgstr "错误：下载更新失败"
+
+msgid "Error: Failed to install update"
+msgstr "错误：安装更新失败"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "错误：更新失败。请检查 NVDA 日志以获取详细信息。"
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "更新成功安装！NVDA 需要重新启动。"
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player已更新至版本 {version}。\n"
+"\n"
+"必须重新启动 NVDA 才能使更新生效。\n"
+"\n"
+"现在重新启动 NVDA 吗？"
+
+msgid "Update Installed"
+msgstr "更新已安装"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "更新失败，因为文件正在使用中。\n"
+"\n"
+"请重新启动 NVDA 并立即尝试更新，\n"
+"\n"
+"不要打开插件设置。"
+
+msgid "Update Failed - Files Locked"
+msgstr "更新失败 - 文件被锁定"

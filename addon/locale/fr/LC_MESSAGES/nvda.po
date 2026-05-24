@@ -184,3 +184,71 @@ msgstr "Veuillez patienter, chargement en cours..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "Ouvre le YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "Mise à jour disponible - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "Une nouvelle version de YouTube Music Player est disponible !\n"
+"\n"
+"Version actuelle : {current}\n"
+"Nouvelle version : {new}\n"
+"\n"
+"Cliquez sur 'Télécharger et Installer' pour mettre à jour automatiquement."
+
+msgid "Release: {}"
+msgstr "Version : {}"
+
+msgid "&Download and Install"
+msgstr "&Télécharger et Installer"
+
+msgid "&Close"
+msgstr "&Fermer"
+
+msgid "Downloading update... Please wait."
+msgstr "Téléchargement de la mise à jour... Veuillez patienter."
+
+msgid "Error: Failed to download update"
+msgstr "Erreur : Échec du téléchargement de la mise à jour"
+
+msgid "Error: Failed to install update"
+msgstr "Erreur : Échec de l'installation de la mise à jour"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "Erreur : Échec de la mise à jour. Vérifiez le journal de NVDA pour plus de détails."
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "Mise à jour installée avec succès ! NVDA doit redémarrer."
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player a été mis à jour vers la version {version}.\n"
+"\n"
+"NVDA doit redémarrer pour appliquer la mise à jour.\n"
+"\n"
+"Redémarrer NVDA maintenant ?"
+
+msgid "Update Installed"
+msgstr "Mise à jour Installée"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "La mise à jour a échoué car des fichiers sont en cours d'utilisation.\n"
+"\n"
+"Veuillez REDÉMARRER NVDA et tenter la mise à jour immédiatement,\n"
+"\n"
+"SANS ouvrir les paramètres de l'extension."
+
+msgid "Update Failed - Files Locked"
+msgstr "Mise à jour Échouée - Fichiers Verrouillés"

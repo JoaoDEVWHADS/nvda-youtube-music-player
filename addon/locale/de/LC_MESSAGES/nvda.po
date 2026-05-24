@@ -184,3 +184,71 @@ msgstr "Bitte warten, wird bereits geladen..."
 
 msgid "Abre o YouTube Music Player"
 msgstr "Öffnet den YouTube Music Player"
+
+msgid "Update Available - YouTube Music Player"
+msgstr "Update verfügbar - YouTube Music Player"
+
+msgid "A new version of YouTube Music Player is available!\n"
+"\n"
+"Current version: {current}\n"
+"New version: {new}\n"
+"\n"
+"Click 'Download and Install' to update automatically."
+msgstr "Eine neue Version von YouTube Music Player ist verfügbar!\n"
+"\n"
+"Aktuelle Version: {current}\n"
+"Neue Version: {new}\n"
+"\n"
+"Klicken Sie auf 'Herunterladen und Installieren', um automatisch zu aktualisieren."
+
+msgid "Release: {}"
+msgstr "Veröffentlichung: {}"
+
+msgid "&Download and Install"
+msgstr "&Herunterladen und Installieren"
+
+msgid "&Close"
+msgstr "&Schließen"
+
+msgid "Downloading update... Please wait."
+msgstr "Update wird heruntergeladen... Bitte warten."
+
+msgid "Error: Failed to download update"
+msgstr "Fehler: Herunterladen des Updates fehlgeschlagen"
+
+msgid "Error: Failed to install update"
+msgstr "Fehler: Installation des Updates fehlgeschlagen"
+
+msgid "Error: Update failed. Check NVDA log for details."
+msgstr "Fehler: Update fehlgeschlagen. Überprüfen Sie das NVDA-Protokoll für Details."
+
+msgid "Update installed successfully! NVDA needs to restart."
+msgstr "Update erfolgreich installiert! NVDA muss neu gestartet werden."
+
+msgid "YouTube Music Player has been updated to version {version}.\n"
+"\n"
+"NVDA must be restarted for the update to take effect.\n"
+"\n"
+"Restart NVDA now?"
+msgstr "YouTube Music Player wurde auf Version {version} aktualisiert.\n"
+"\n"
+"NVDA muss neu gestartet werden, damit das Update wirksam wird.\n"
+"\n"
+"NVDA jetzt neu starten?"
+
+msgid "Update Installed"
+msgstr "Update Installiert"
+
+msgid "Update failed because files are in use.\n"
+"\n"
+"Please RESTART NVDA and try updating immediately,\n"
+"\n"
+"WITHOUT opening the add-on settings."
+msgstr "Das Update ist fehlgeschlagen, da Dateien verwendet werden.\n"
+"\n"
+"Bitte starten Sie NVDA NEU und versuchen Sie das Update sofort,\n"
+"\n"
+"OHNE die Add-on-Einstellungen zu öffnen."
+
+msgid "Update Failed - Files Locked"
+msgstr "Update Fehlgeschlagen - Dateien gesperrt"
