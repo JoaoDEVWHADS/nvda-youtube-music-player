@@ -55,7 +55,7 @@ MPV_EXE="$ADDON_LIB_DIR/mpv.exe"
 if [ ! -f "$MPV_EXE" ]; then
     echo -e "${YELLOW}mpv.exe não encontrado. Baixando build recente (shinchiro/mpv-winbuild-cmake)...${NC}"
     
-    MPV_DL_URL=$(curl -s https://api.github.com/repos/shinchiro/mpv-winbuild-cmake/releases/latest | grep "browser_download_url" | grep ".7z" | grep "v3" | head -n 1 | cut -d '"' -f 4)
+    MPV_DL_URL=$(curl -s https://api.github.com/repos/shinchiro/mpv-winbuild-cmake/releases/latest | grep "browser_download_url" | grep "mpv-x86_64-v3" | head -n 1 | cut -d '"' -f 4)
     
     if [ -z "$MPV_DL_URL" ]; then
         echo -e "${RED}Erro ao encontrar URL de download do MPV. Tentando fallback...${NC}"
